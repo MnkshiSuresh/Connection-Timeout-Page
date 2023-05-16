@@ -24,3 +24,14 @@ body{
     width:40px;
     padding-left: 13px;
 }
+
+.ko{
+    display: flex;
+    flex-direction: row;
+}
+.koko{
+    padding-left: 120px;
+    padding-top: 180px;
+    height:325px;
+    width: 340px;
+}
