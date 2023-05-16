@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(223, 218, 218);
+    
+}
+.logos{
+    padding-top: 20px;
+    height:40px;
+    width:40px;
+}
+.myself{
+    font-size: 50px;
+    color: #dac207;
+    margin-bottom: 20px;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+body{
+    padding-left: 80px;
+}
+
+.logod{
+     padding-top: 20px;
+    height:40px;
+    width:40px;
+    padding-left: 13px;
+}
